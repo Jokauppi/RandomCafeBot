@@ -153,7 +153,7 @@ public class LaudeBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "RandomCafeBot";
+        return "/*bot username here*/";
     }
 
     @Override
